@@ -34,7 +34,7 @@ def main():
                 cam()
                 break
             if case('8'):
-                pass
+                shodanhacking()
                 break
             if case('9'):
                 pass
