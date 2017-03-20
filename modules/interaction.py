@@ -9,7 +9,8 @@ def show_options():
         print("5) Metadata analysis in PDF files")
         print("6) Scan the target")
         print("7) Scan for webcams")
-        print("8) Exit")
+        print("8) Shodan Hacking")
+        print("9) Exit")
         print("Choose an option: ")
 
 def domain_or_ip():

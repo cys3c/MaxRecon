@@ -8,7 +8,7 @@ from imports import *
 
 def main():
     option=0
-    while option!='8':
+    while option!='9':
         show_options()
         option=input()
         for case in switch(option):
@@ -34,6 +34,9 @@ def main():
                 cam()
                 break
             if case('8'):
+                pass
+                break
+            if case('9'):
                 pass
                 break
             if case(): # default
