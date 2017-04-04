@@ -5,3 +5,4 @@ from imports import *
 API=""
 
 def shodanhacking():
+    pass
